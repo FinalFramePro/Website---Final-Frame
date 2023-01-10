@@ -160,12 +160,9 @@ header #logo {
   }
   .business-section .section-text, .events-section .section-text, .documentary-section .section-text, .sports-section .section-text {
     justify-content: center;
-  }
-  .business-section .section-text h1, .events-section .section-text h1, .documentary-section .section-text h1, .sports-section .section-text h1 {
-    font-size: 50pt;
+    align-items: center;
   }
   .business-section .section-text p, .events-section .section-text p, .documentary-section .section-text p, .sports-section .section-text p {
     max-width: 75%;
-    font-size: 20pt;
   }
 }/*# sourceMappingURL=style.css.map */
