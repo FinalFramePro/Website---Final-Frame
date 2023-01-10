@@ -164,5 +164,6 @@ header #logo {
   }
   .business-section .section-text p, .events-section .section-text p, .documentary-section .section-text p, .sports-section .section-text p {
     max-width: 75%;
+    font-size: small;
   }
 }/*# sourceMappingURL=style.css.map */
